@@ -159,7 +159,7 @@ const songs = [
   {
     title: "The Hatters",
     name: "Город поёт",
-    source: "1.mp3",
+    source: "https://github.com/Edem-Gaziev/For-you/blob/main/1.mp3",
   },
   {
     title: "КИНО",
