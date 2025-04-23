@@ -159,27 +159,27 @@ const songs = [
   {
     title: "The Hatters",
     name: "Город поёт",
-    source: "song-list.zip/1.mp3",
+    source: "1.mp3",
   },
   {
     title: "КИНО",
     name: "Группа крови",
-    source: "song-list.zip/4.mp3",
+    source: "4.mp3",
   },
   {
     title: "SQAUTE",
     name: "Зависим",
-    source: "song-list.zip/3.mp3",
+    source: "3.mp3",
   },
   {
     title: "Nightcore",
     name: "Shatter me",
-    source: "song-list.zip/2.mp3",
+    source: "2.mp3",
   },
   {
     title: "Stromae",
     name: "Alors on danse",
-    source: "song-list.zip/7.mp3",
+    source: "7.mp3",
   },
 ];
 
